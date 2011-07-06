@@ -1,0 +1,8 @@
+WordPressExportConverter
+
+Originally by David Boike
+http://www.make-awesome.com/
+
+Processes a WordPress export file, transforming it to ease transferring content between WordPress accounts.
+
+Currently, the only transformation is to change image references so that posts do not contain multi-megapixel images once they are imported into a self-hosted WordPress installation.
